@@ -1,64 +1,57 @@
 <div align="center">
 
-# JOGEZA
+<h1 style="margin-bottom:4px">JOGEZA</h1>
+<p style="margin-top:0;font-weight:600;letter-spacing:1px">DESIGN × CODE × BUSINESS</p>
 
-### DESIGN · CODE · BUSINESS
-
-**Graphic Designer · Web Developer · Creative Technologist**
-
-I design brands, build digital products, and experiment with technology
-to turn ideas into useful, scalable businesses.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Jogeza)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://github.com/Jogeza)
+<p style="max-width:680px;margin:12px auto 18px;color:#666;line-height:1.5">Creative technologist — I design premium brands, build production web products, and engineer data-driven systems that connect design, software and business.</p>
 
 </div>
 
 ---
 
-# ABOUT
+<!-- SHORT POSITIONING -->
+
+### About
+
+I’m a Computer Science graduate, graphic designer, web developer and entrepreneur working at the intersection of design, engineering and business. I build products — not just demos — with an emphasis on visual identity, robust architecture and measurable business outcomes.
+
+Core strengths: Graphic design · Brand identity · UI/UX · Web development · Product development · Python · AI-assisted development · Automation · E‑commerce · Quantitative technology · Digital business
+
+---
+
+<!-- DESIGN × ENGINEERING × BUSINESS -->
+
+### Design × Engineering × Business
 
 <table>
 <tr>
-<td width="55%">
+<td valign="top" width="33%">
 
-I'm a **Computer Science graduate and multidisciplinary designer** focused on the intersection of:
+**Design**
 
-**Design × Technology × Business**
-
-My work moves between visual identity, UI/UX, web development, software architecture, automation, e-commerce and quantitative technology.
-
-I enjoy taking an idea from a rough concept → design → architecture → working product.
+- Visual identity & editorial systems
+- UI / UX & interaction
+- Brand direction & artworking
 
 </td>
 
-<td width="45%">
+<td valign="top" width="33%">
 
-```text
-JOGEZA
-────────────────────
+**Engineering**
 
-DESIGN
-  ├─ Brand Identity
-  ├─ UI / UX
-  ├─ Graphic Design
-  └─ Visual Systems
+- Web applications (Next.js, React) 
+- Data pipelines & Python systems
+- Automation, testing, deployment
 
-ENGINEERING
-  ├─ Web Applications
-  ├─ Python
-  ├─ Automation
-  └─ Software Architecture
+</td>
 
-BUSINESS
-  ├─ Product Development
-  ├─ E-commerce
-  ├─ Digital Strategy
-  └─ Entrepreneurship
-```
+<td valign="top" width="33%">
+
+**Business**
+
+- Product strategy & e‑commerce
+- Market fit & growth-oriented design
+- Operational systems & monetization
 
 </td>
 </tr>
@@ -66,59 +59,65 @@ BUSINESS
 
 ---
 
-# WHAT I DO
+<!-- SELECTED WORK -->
 
-<table>
+### Selected work
+
+Below are flagship projects — each card emphasizes purpose, tech and links to the repository or demo.
+
+<table width="100%" cellpadding="12">
 <tr>
-<td align="center" width="25%">
+<td valign="top" width="48%" style="border-right:1px solid rgba(0,0,0,0.06)">
 
-### 🎨
+<h3 style="margin:6px 0">JQE</h3>
+<p style="margin:0;font-size:12px;color:#666;letter-spacing:0.6px">Quantitative technology · Research & trading</p>
 
-**DESIGN**
+<p style="margin-top:8px">A Python-based quantitative research and trading engine focused on market data, backtesting, strategy development, risk management and automated execution.</p>
 
-Brand identity
-UI / UX
-Graphic design
-Design systems
+<p style="margin:8px 0 0;color:#444">Python · Pandas · NumPy · Backtesting · Risk · Execution · Testing</p>
 
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-
-**DEVELOPMENT**
-
-Web applications
-APIs
-Automation
-Software architecture
+<p style="margin-top:8px"><a href="https://github.com/Jogeza/JQE">View project →</a></p>
 
 </td>
 
-<td align="center" width="25%">
+<td valign="top" width="4%"></td>
 
-### 🤖
+<td valign="top" width="48%">
 
-**AI & TOOLS**
+<h3 style="margin:6px 0">Continental Love</h3>
+<p style="margin:0;font-size:12px;color:#666;letter-spacing:0.6px">Premium commerce · Cultural brand</p>
 
-AI-assisted development
-Workflow automation
-Research
-Rapid prototyping
+<p style="margin-top:8px">A premium commerce concept and storefront connecting African products and stories — coffee, jewelry and apparel — with international markets through editorial brand design and e‑commerce.</p>
+
+<p style="margin:8px 0;color:#444">Next.js · TypeScript · Tailwind · Firebase · E‑commerce · Brand Design</p>
+
+<p style="margin-top:8px"><a href="https://github.com/Jogeza/Continental-Love">View project →</a></p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="48%" style="border-top:1px solid rgba(0,0,0,0.06);padding-top:16px;border-right:1px solid rgba(0,0,0,0.06)">
+
+<h3 style="margin:6px 0">MI-OLSG</h3>
+<p style="margin:0;font-size:12px;color:#666;letter-spacing:0.6px">Media-first digital ministry</p>
+
+<p style="margin-top:8px">A content-driven platform centered on video, livestreams, articles and community to support digital ministry and congregation engagement.</p>
+
+<p style="margin:8px 0;color:#444">Next.js · Firebase · Video · Live · Community</p>
 
 </td>
 
-<td align="center" width="25%">
+<td valign="top" width="4%"></td>
 
-### 🚀
+<td valign="top" width="48%" style="border-top:1px solid rgba(0,0,0,0.06);padding-top:16px">
 
-**BUILDING**
+<h3 style="margin:6px 0">Joki Holdings</h3>
+<p style="margin:0;font-size:12px;color:#666;letter-spacing:0.6px">Creative & business ecosystem</p>
 
-Products
-Platforms
-Businesses
-Digital ecosystems
+<p style="margin-top:8px">The business platform for creative services — graphic design, print, branding, web and product operations.</p>
+
+<p style="margin:8px 0;color:#444">Design · Print · Branding · Web · Digital products · Business systems</p>
 
 </td>
 </tr>
@@ -126,464 +125,95 @@ Digital ecosystems
 
 ---
 
-# TECHNOLOGY
+<!-- TECHNOLOGY -->
 
-### DEVELOPMENT
+### Technology
 
-<p>
+Grouped by role rather than raw lists.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+**Design**
 
-</p>
+Figma · Adobe Illustrator · Photoshop · Editorial systems
 
-### DATA & BACKEND
+**Development**
 
-<p>
+Next.js · React · TypeScript · Node.js · Tailwind CSS
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+**Data & Backend**
 
-</p>
+Python · Pandas · NumPy · PostgreSQL · Firebase
 
-### DESIGN
+**Tools**
 
-<p>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square\&logo=adobeillustrator\&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square\&logo=adobephotoshop\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square\&logo=canva\&logoColor=white)
-
-</p>
-
-### DEVELOPMENT TOOLS
-
-<p>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-
-</p>
+Git · VS Code · Pytest · MetaTrader 5 (research integrations)
 
 ---
 
-# FEATURED PROJECTS
+<!-- CURRENTLY BUILDING -->
 
-## ⚡ JQE
+### Currently building
 
-### Quantitative Trading & Research Engine
-
-**JQE** is an evolving Python-based quantitative trading engine focused on research, data, strategy development, backtesting, risk management and autonomous execution.
-
-```text
-JQE
-│
-├── Data
-├── Market Data
-├── Strategy
-├── Risk Management
-├── Backtesting
-├── Analytics
-├── Execution
-├── Reporting
-└── Testing
-```
-
-**Focus**
-
-* Quantitative research
-* Market data infrastructure
-* Strategy development
-* Backtesting
-* Risk management
-* Execution architecture
-* Automated trading systems
-
-**Stack**
-
-`Python` `Pandas` `NumPy` `MetaTrader 5` `Pytest`
-
-→ **[View JQE on GitHub](https://github.com/Jogeza/JQE)**
+- JQE — autonomous research & trading foundation (data, backtesting, execution)
+- Continental Love — premium commerce & brand experience
+- MI‑OLSG — media-first content and community platform
+- Joki Holdings — operational platform for creative services
 
 ---
 
-# 🌍 CONTINENTAL LOVE
+<!-- CURRENTLY LEARNING -->
 
-### African Products · Culture · Commerce
+### Currently learning
 
-Continental Love is a premium commerce and cultural brand concept designed to connect African products, craftsmanship, experiences and stories with global markets.
-
-The long-term vision is larger than a traditional online store:
-
-```text
-                    CONTINENTAL LOVE
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-      COFFEE            JEWELRY            APPAREL
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                           │
-                      MARKETPLACE
-                           │
-                    GLOBAL COMMERCE
-```
-
-**Design direction**
-
-`Premium` · `Editorial` · `African Heritage` · `Global Commerce`
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Firebase`
-
-→ **[View Continental Love](https://github.com/Jogeza/Continental-Love)**
+Software architecture · Advanced Python · AI-assisted development · Agentic automation · Quantitative finance · Next.js architecture
 
 ---
 
-# ⛪ MI-OLSG
+<!-- PHILOSOPHY -->
 
-### Media-First Digital Ministry Platform
+### Philosophy
 
-A digital platform designed around media, content, community and evangelization.
+Design must communicate and create clear, measurable value. Engineering should make products resilient and testable. Business thinking ties both to real outcomes.
 
-The goal is not simply to create a traditional organization website, but a **content-driven digital ministry ecosystem**.
-
-```text
-CONTENT
-   │
-   ├── Video
-   ├── Livestream
-   ├── Articles
-   ├── Events
-   └── Resources
-          │
-          ↓
-      COMMUNITY
-          │
-          ↓
-      MINISTRY
-```
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `Firebase`
+Principles: Build useful things · Design with intention · Ship early, iterate often · Automate the repetitive · Think globally, start from Africa
 
 ---
 
-# 🏗️ JOKI HOLDINGS
+<!-- GITHUB STATS -->
 
-### Design · Print · Technology · Business
-
-Joki Holdings is the business ecosystem behind my work in design, printing, digital products and technology.
-
-The objective is to combine traditional creative production with modern digital infrastructure.
-
-```text
-JOKI HOLDINGS
-│
-├── Creative Services
-├── Graphic Design
-├── Printing
-├── Branding
-├── Web Development
-├── Digital Products
-└── Technology
-```
-
----
-
-# DESIGN PHILOSOPHY
-
-I believe good design should do more than look good.
-
-It should:
-
-```text
-COMMUNICATE
-     ↓
-CREATE TRUST
-     ↓
-MAKE THINGS SIMPLE
-     ↓
-CREATE DESIRE
-     ↓
-DRIVE ACTION
-     ↓
-CREATE VALUE
-```
-
-I prefer **clear systems over decoration** and **strong visual identity over generic templates**.
-
----
-
-# DEVELOPMENT PHILOSOPHY
-
-```text
-IDEA
- │
- ↓
-RESEARCH
- │
- ↓
-ARCHITECTURE
- │
- ↓
-DESIGN
- │
- ↓
-BUILD
- │
- ↓
-TEST
- │
- ↓
-ITERATE
- │
- ↓
-SHIP
-```
-
-I don't want to simply write code.
-
-I want to understand **why the product exists, who it serves, how it creates value, and how it can evolve.**
-
----
-
-# CURRENTLY BUILDING
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ JQE
-
-Expanding the architecture toward a more autonomous quantitative research and trading system.
-
-</td>
-
-<td width="50%">
-
-### 🌍 Continental Love
-
-Developing a premium commerce experience connecting African products and stories with international markets.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ⛪ MI-OLSG
-
-Building a media-first digital ministry platform.
-
-</td>
-
-<td>
-
-### 🏗️ Joki Holdings
-
-Growing the intersection between creative services, printing, technology and digital business.
-
-</td>
-</tr>
-</table>
-
----
-
-# CURRENT LEARNING
-
-```text
-┌──────────────────────────────────────────────┐
-│ SOFTWARE ARCHITECTURE                        │
-│                                              │
-│ QUANTITATIVE FINANCE                         │
-│                                              │
-│ AI-ASSISTED DEVELOPMENT                      │
-│                                              │
-│ ADVANCED PYTHON                              │
-│                                              │
-│ NEXT.JS / REACT ARCHITECTURE                 │
-│                                              │
-│ PRODUCT DESIGN SYSTEMS                       │
-│                                              │
-│ AUTOMATION & AGENTIC WORKFLOWS               │
-│                                              │
-│ DIGITAL COMMERCE                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-# MY WORKFLOW
-
-### 01 — DISCOVER
-
-Understand the problem, business and user.
-
-### 02 — RESEARCH
-
-Study existing solutions, patterns and opportunities.
-
-### 03 — DESIGN
-
-Create the visual language, UX and product structure.
-
-### 04 — ARCHITECT
-
-Define the technical architecture before building.
-
-### 05 — BUILD
-
-Turn the concept into a working product.
-
-### 06 — TEST
-
-Break it, measure it and fix it.
-
-### 07 — SHIP
-
-Get the product into the real world.
-
-### 08 — ITERATE
-
-Improve based on actual usage.
-
----
-
-# AREAS OF INTEREST
-
-```text
-GRAPHIC DESIGN
-████████████████████
-
-WEB DEVELOPMENT
-███████████████████
-
-AI & AUTOMATION
-██████████████████
-
-PRODUCT DESIGN
-█████████████████
-
-QUANTITATIVE TECHNOLOGY
-████████████████
-
-E-COMMERCE
-███████████████
-
-BRANDING
-██████████████████
-```
-
----
-
-# GITHUB
+### GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jogeza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=Jogeza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jogeza&layout=compact&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jogeza&layout=compact&hide_border=true" alt="Top languages"/>
 
 </div>
 
-<br/>
+<p align="center" style="margin-top:10px;color:#666">Contribution streaks and activity graph included below — these are optional third‑party cards and may be hidden by GitHub in some contexts.</p>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jogeza&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Jogeza&hide_border=true" alt="Streak stats"/>
 
 </div>
 
 ---
 
-# CONTRIBUTIONS
+<!-- OPEN SOURCE / INTERESTS -->
 
-<div align="center">
+### Open source & interests
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jogeza\&hide_border=true)
-
-</div>
+Developer tools · AI-assisted workflows · Quantitative technology · E‑commerce · Design systems · Automation · African technology · Creative technology
 
 ---
 
-# OPEN SOURCE
+### Contact
 
-I'm interested in building and contributing to projects around:
+I’m interested in ambitious projects that combine design, technology and business. If you have an idea worth building, let's talk.
 
-* Developer tools
-* AI-assisted workflows
-* Quantitative technology
-* E-commerce
-* Design systems
-* African technology
-* Automation
-* Creative technology
-* Open-source software
+- GitHub: https://github.com/Jogeza
 
 ---
 
-# PRINCIPLES
-
-```text
-01  BUILD USEFUL THINGS
-
-02  DESIGN WITH INTENTION
-
-03  UNDERSTAND THE BUSINESS
-
-04  AUTOMATE THE REPETITIVE
-
-05  KEEP LEARNING
-
-06  SHIP BEFORE PERFECT
-
-07  BUILD SYSTEMS, NOT JUST FEATURES
-
-08  THINK GLOBALLY
-
-09  START FROM AFRICA
-
-10  KEEP MOVING
-```
-
----
-
-# ESTABLISH CONNECTION
-
-<div align="center">
-
-### Have an idea worth building?
-
-I'm interested in ambitious projects combining:
-
-**Design + Technology + Business**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Jogeza-181717?style=for-the-badge\&logo=github)](https://github.com/Jogeza)
-
-</div>
-
----
-
-<div align="center">
-
-### BUILD · LEARN · DESIGN · SHIP
-
-<br/>
-
-<sub>Designed and built by Jogeza.</sub>
-
-</div>
+<sub>Designed and written by Jogeza. Profile repository: https://github.com/Jogeza/Jogeza</sub>
