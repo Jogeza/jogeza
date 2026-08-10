@@ -4,112 +4,82 @@
 
 **DESIGN × CODE × BUSINESS**
 
-Creative Technologist
+Creative technologist — I design visual identities, build web products and create software that solves real problems.
 
-I design brands, build web products and work on software that solves real problems. Some days I am focused on visual identity and details of interaction. Other days I am writing Python, shipping a Next.js app or improving the systems behind a product.
+I work at the intersection of design, engineering and business: I care about clarity of experience, reliable engineering and products that make sense for customers and the teams that run them.
 
 ---
 
-## Design, engineering and business
+## What I do
 
-### Design
-
-I usually start with the visual side. I care about clarity, layout and how people experience a product. Good visuals make things easier to understand.
-
-### Engineering
-
-Once an idea is clear, I like turning it into something real. Most of my development work is with Next.js, React, TypeScript and Python. I pay attention to tests and automation so things keep working.
-
-### Business
-
-What comes after launch matters. I focus on products that solve a real problem and make sense for customers and for the business that supports them.
+- Design: visual identity, interaction details and product thinking that make experiences easier to understand.
+- Engineering: build production web apps and services using Next.js, React, TypeScript and Python. I value tests, automation and pragmatic architecture.
+- Business: product-led thinking — launching features that solve real problems and sustain the business that supports them.
 
 ---
 
 ## Selected work
 
-### 01. JQE
+### 01. JQE — Quantitative technology
 
-**Quantitative technology**
-
-JQE is a project I build to explore quantitative trading and market research. It collects market data, runs backtests, helps me develop strategies and includes risk checks and execution components. I work with Python, Pandas and NumPy, along with my own backtesting and trading infrastructure.
+A research and execution platform for quantitative trading: data collection, backtesting, strategy development, risk checks and execution. Built to iterate quickly while keeping risk controls in place.
 
 [View JQE](https://github.com/Jogeza/JQE)
 
-### 02. Continental Love
+### 02. Continental Love — Global commerce
 
-**Global commerce**
-
-Continental Love is a brand and storefront for African products. The idea is to bring coffee, jewelry and apparel to customers outside Africa while keeping a strong editorial identity. I use Next.js and TypeScript for the storefront and Firebase for backend services.
+A brand and storefront showcasing African products (coffee, jewelry, apparel) with a strong editorial identity and a modern storefront built with Next.js.
 
 [View Continental Love](https://github.com/Jogeza/Continental-Love)
 
-### 03. MI-OLSG
+### 03. MI-OLSG — Digital media
 
-**Digital media**
+Media-first platform for video, livestreams, articles and community. Focused on discoverability and simple engagement flows. Currently maintained and iterated on using Next.js.
 
-MI-OLSG is a media-first platform for video, livestreams, articles and community. The goal is to make content easy to find and simple for people to engage with. The current stack relies on Next.js and Firebase and focuses on reliable media delivery and discoverability.
+### 04. Joki Holdings — Creative technology
 
-### 04. Joki Holdings
-
-**Creative technology**
-
-Joki Holdings combines design, print, web and digital business. I am working on turning those services into repeatable systems and product-like offerings that scale.
+A collection of design, print and digital services being turned into repeatable, product-like offerings and systems.
 
 ---
 
 ## Technology
 
-### Design
-
-Figma, Illustrator and Photoshop.
-
-### Development
-
-Next.js, React, TypeScript and Python.
-
-### Data and cloud
-
-Pandas, NumPy, Firebase and PostgreSQL.
-
-### Tools
-
-Git, GitHub and Pytest.
+- Design: Figma, Illustrator, Photoshop
+- Development: Next.js, React, TypeScript, Python
+- Data & Cloud: Pandas, NumPy, Firebase, PostgreSQL
+- Tools: Git, GitHub, Pytest
 
 ---
 
 ## Currently
 
-Right now most of my time goes to JQE and Continental Love. I’m also maintaining MI-OLSG and improving the systems that support Joki Holdings. I’m interested in how AI can speed up parts of design and development without removing the human decisions that matter.
+Most of my time is spent on JQE and Continental Love. I maintain MI-OLSG and continue to iterate on systems for Joki Holdings. I'm exploring how AI can speed up design and development workflows.
 
 ---
 
 ## Learning
 
-I am spending time on software architecture, advanced Python, AI-assisted development, automation and quantitative finance.
+I'm focusing on software architecture, advanced Python, AI-assisted development, automation and quantitative finance.
 
 ---
 
 ## Philosophy
 
-I like making things people can use. Good design helps people understand what to do. Good engineering makes that experience reliable. When a product has both and a clear business reason, it becomes useful in the real world.
+Design should make things clear. Engineering should make them reliable. When a product has both and a sustainable business model behind it, it becomes useful and lasting.
 
 ---
 
-## GitHub activity
+## Interests & open source
 
-GitHub activity and statistics are secondary to the work itself, so they are kept simple here.
-
----
-
-## Interests and open source
-
-Developer tools, AI-assisted workflows, quantitative technology, e-commerce, design systems, automation, African technology.
+Developer tools, AI-assisted workflows, quantitative technology, e-commerce, design systems, automation and African technology.
 
 ---
 
 ## Contact
 
-[GitHub](https://github.com/Jogeza)
+- GitHub: https://github.com/Jogeza
+- Profile repository: https://github.com/Jogeza/Jogeza
 
-[Profile repository](https://github.com/Jogeza/Jogeza)
+---
+
+*This README is a short summary of my work. For more details, see the individual project repositories linked above.*
